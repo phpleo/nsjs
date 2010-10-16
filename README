@@ -1,0 +1,6 @@
+Namespace (ns) function v0.1
+
+ns.js is a small javascript function based in Yahoo.Namespace for creating  namespaces. Totaly framework independent.
+
+Released under the MIT License.
+http://www.opensource.org/licenses/mit-license.html
